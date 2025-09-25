@@ -1,6 +1,8 @@
---- # Manifesto Poggit-CI. Abra o CI em https://poggit.pmmp.io/ci/TestadorBeta/FactionDomination
-build-by-default: verdade
-ramificações:
--principais
-projetos: [FaçãoDominação]
-‚...
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/TestadorBeta/FactionDomination
+build-by-default: true
+branches:
+  - main
+projects:
+  FactionDomination:
+    path: ""
+...
