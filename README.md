@@ -1,0 +1,2 @@
+# FactionDomination
+Plugin Minecraft BedRock
